@@ -24,25 +24,33 @@ Welcome to the Sales Data Centralization Project! In this initiative, we aim to 
    - Regularly update and maintain the database for real-time metrics.
    - Enable the team to query the database for the latest business insights.
 
-## Implementation Steps
+## Milestones
 
-1. **Data Collection:**
+### Milestone 1: Data Collection
    - Identify and gather sales data from various sources within the organization.
 
-2. **Database Design:**
-   - Develop a robust database schema to accommodate different types of sales data.
+### Milestone 2: Extract and Clean the Data from Data Sources
+   - Develop processes to extract data from different sources.
+   - Implement cleaning procedures to ensure data quality and consistency.
 
-3. **Data Ingestion:**
+### Milestone 3: Create the Database Schema
+   - Design a robust database schema to accommodate different types of sales data.
+   - Define tables, relationships, and constraints for optimal data storage.
+
+### Milestone 4: Querying the Data
+   - Develop queries to extract up-to-date metrics and generate reports.
+   - Implement a querying system that allows team members to retrieve relevant business insights.
+
+## Implementation Steps
+
+1. **Data Ingestion:**
    - Implement processes for efficiently ingesting and storing data in the database.
 
-4. **Quality Assurance:**
+2. **Quality Assurance:**
    - Establish data quality standards to ensure accuracy and reliability.
 
-5. **Access Control:**
+3. **Access Control:**
    - Implement access controls to manage user permissions and data confidentiality.
-
-6. **Query and Reporting:**
-   - Develop queries to extract up-to-date metrics and generate reports.
 
 ## How to Contribute
 
@@ -51,4 +59,4 @@ If you would like to contribute to the project, feel free to:
 - Submit suggestions or improvements via [Issues](https://github.com/your-organization/sales-data-centralization/issues).
 - Fork the repository, make changes, and submit a [Pull Request](https://github.com/your-organization/sales-data-centralization/pulls).
 
-Let's work together to create a centralized and accessible repository for our sales data!
+Let's work together to achieve these milestones and create a centralized and accessible repository for our sales data!
